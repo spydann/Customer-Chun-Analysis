@@ -9,10 +9,10 @@ In this analysis, we aim to:
 * Recommendations: Based on our findings, we will provide actionable recommendations to reduce churn and improve customer retention.
 
 Repository Structure
-data: This directory contains the datasets used in the analysis.
-pbix file : contains the power bi file which contains the dashboard 
-dashboard pdf file: a pdf file contains a static image of the dashboard 
-README.md: This document provides an overview of the project.
+* data: This directory contains the datasets used in the analysis.
+* pbix file : contains the power bi file which contains the dashboard 
+* dashboard pdf file: a pdf file contains a static image of the dashboard 
+* README.md: This document provides an overview of the project.
 
 The dataset was gotten from a telecommunication company and contains 6687 customer records and 19 categories(columns). 
 A bit of data cleaning was done on the data using power bi (power query) such as:
