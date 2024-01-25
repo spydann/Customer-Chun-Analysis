@@ -39,7 +39,7 @@ The data was further worked on by using DAX to create calculated columns and app
 * Contract Type: Churn customers are mostly on month-to-month contract plans.
 
 
-
+# Recommendation
 Based on the analysis results, here are some recommendations to address customer churn:
 
 * Competitive Pricing and Offers: Develop competitive pricing strategies and promotional offers to match or surpass those of competitors. This could involve introducing special discounts, loyalty rewards, or bundled services to incentivize customers to stay.
