@@ -1,6 +1,5 @@
 # Customer-Chun-Analysis
 Welcome to our customer churn rate analysis project! In this repository, we explore the phenomenon of customer churn within our business. Customer churn, or customer attrition, is the rate at which customers stop doing business with a company over a specific period. Understanding and mitigating customer churn is crucial for the sustained growth and success of any business.
-![image](https://github.com/spydann/Customer-Chun-Analysis/assets/118543092/07a33003-792d-4d84-9cb8-f0bc208d42e3)
 
 
 In this analysis, we aim to:
